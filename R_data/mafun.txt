@@ -1,0 +1,24 @@
+sp_code	colour	functional_group	activity	size_group	burial_strategy	diet_breadth	body_length	body_width	body_size	wet_biomass	dry_biomass	wing_sa	wing_loading
+ontacu	black	medium_diurnal_tunneler	diurnal	medium	tunneler 	coprophagous	6.28	3.25	20.56	0.025	0.006	0.18	0.136
+ontbat	black	medium_diurnal_tunneler	diurnal	medium	tunneler 	coprophagous	6.25	3.25	20.49	0.027	0.006	0.18	0.151
+ontcor	metallic	medium_diurnal_tunneler	diurnal	medium	tunneler 	coprophagous	6.30	3.68	23.38	0.030	0.007	0.21	0.148
+ontmar	patterned_colour	small_diurnal_tunneler	diurnal	small	tunneler 	coprophagous	6.17	3.55	22.05	0.003	0.007	0.21	0.147
+ontpra	metallic	medium_diurnal_tunneler	diurnal	medium	tunneler 	coprophagous	6.86	3.69	25.55	0.029	0.008	0.22	0.142
+dicami	black_brown	large_nocturnal_tunneler	nocturnal	large	tunneler 	generalist	19.75	9.95	196.68	2.160	1.210	1.87	0.57
+dicasat	black_brown	large_nocturnal_tunneler	nocturnal 	large	tunneler 	generalist 	17.13	9.25	159.29	0.990	0.216	1.35	0.745
+coppec	black_metallic	large_nocturnal_tunneler	nocturnal 	large	tunneler 	necrophagous	20.57	11.52	239.03	1.061	0.233	1.17	0.898
+copsol	black 	large_nocturnal_tunneler	nocturnal 	large	tunneler 	necrophagous	24.37	14.07	344.22	1.712	0.395	1.77	0.968
+coptel	brown	large_nocturnal_roller	nocturnal 	large	roller	generalist	13.54	7.30	98.74	0.325	0.055	0.63	0.524
+delpse	black	large_nocturnal_roller	nocturnal 	large	roller	generalist 	29.43	18.39	541.22	1.741	0.505	3.85	0.452
+canaeq	black	large_diurnal roller	diurnal	large	roller	coprophagous	12.33	7.06	87.04	0.203	0.083	0.62	0.329
+cancae	black_metallic	medium_diurnal_roller	diurnal	medium	roller	coprophagous	5.57	3.54	19.73	0.017	0.005	0.19	0.092
+canmut	metallic_green_black_yellow	medium_diurnal_roller	diurnal	medium	roller	coprophagous	6.93	4.27	29.67	0.037	0.008	0.24	0.159
+pedpil	brown_hairy	medium_diurnal_roller	diurnal	medium	roller	coprophagous	3.12	1.99	6.23	0.003	0.000	0.11	0.014
+pseper	brown	small_diurnal_unknown	diurnal	small	unknown	coprophagous	4.13	2.07	8.59	0.002	0.000	0.11	0.019
+canhar	black_yellow	medium_diurnal_roller	diurnal	medium	roller	coprophagous	7.08	4.07	28.98	0.049	0.010	0.19	0.277
+canmac	metallic_burgandy	large_diurnal_tunneler	diurnal	large	tunneler	coprophagous	6.83	3.49	24.21	0.063	0.017	0.23	0.301
+eurcar	metallic_burgandy	large_diurnal_tunneler	diurnal	large	tunneler	coprophagous	8.66	5.80	50.23	0.110	0.000	0.23	0.478
+eurfoe	brown_black	large_nocturnal_dweller	nocturnal 	large	dweller	coprophagous	15.33	7.16	110.18	0.251	0.110	0.59	0.432
+eurmex	brown	large_diurnal_dweller	diurnal 	large	dweller	coprophagous	8.51	4.25	36.39	0.090	0.006	0.26	0.432
+eurple	brown	medium_nocturnal_dweller	nocturnal 	medium	dweller	coprophagous	8.51	4.25	36.39	0.090	0.006	0.26	0.432
+copinc	black 	large_nocturnal_tunneler 	nocturnal 	large	tunneler	coprophagous	9.91	5.40	53.77	0.269	0.057	1.03	0.271
